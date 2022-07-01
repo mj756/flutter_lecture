@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303336923056",
+    "project_id": "learn-flutter-9cd93",
+    "storage_bucket": "learn-flutter-9cd93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303336923056:android:b2d0a467cc2e968f608075",
+        "android_client_info": {
+          "package_name": "com.example.medical_consulttancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303336923056-sqh85g4ib0tng18tffre94htmle8u4jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medical_consulttancy",
+            "certificate_hash": "ee8f73d2ba38e39eec7490a585601a030a8acce0"
+          }
+        },
+        {
+          "client_id": "303336923056-899lnpup5ehk1h77fjvr16apavb26me0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0MfKOlM-lB0rXQzwXKyy26Ncy4RV3uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303336923056-899lnpup5ehk1h77fjvr16apavb26me0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

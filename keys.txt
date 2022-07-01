@@ -1,0 +1,17 @@
+Alias name: flutterdemokey
+Creation date: Jun 29, 2022
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=', OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=', OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 8ba352d7544ec995
+Valid from: Wed Jun 29 09:50:26 IST 2022 until: Sun Nov 14 09:50:26 IST 2049
+Certificate fingerprints:
+         SHA1: EE:8F:73:D2:BA:38:E3:9E:EC:74:90:A5:85:60:1A:03:0A:8A:CC:E0
+         SHA256: 27:39:EA:B8:46:EE:4C:33:23:58:91:5B:93:CD:19:D1:B0:6C:CB:BD:6D:07:B1:E0:04:02:80:32:51:0B:FF:8B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions:
